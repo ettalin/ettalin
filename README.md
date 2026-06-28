@@ -48,5 +48,14 @@ I help businesses and teams turn AI ideas into practical workflows, systems, and
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ettalin&show_icons=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ettalin&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
