@@ -43,7 +43,7 @@ I help businesses and teams turn AI ideas into practical workflows, systems, and
 
 ## Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/tiffany-lin) · [Email](mailto:tiffanyetta@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tiffanyettalin/) · [Email](mailto:ttomlin.fuse@gmail.com)
 
 ---
 
