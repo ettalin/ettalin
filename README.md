@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey, I'm Tiffany 👋
 
-<!--
-**ettalin/ettalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Solutions Strategist · Workflow Designer · Learning to Build
 
-Here are some ideas to get you started:
+I help businesses and teams turn AI ideas into practical workflows, systems, and business-ready solutions. I'm also learning to build those solutions myself — currently working in TypeScript, Next.js, and Tailwind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- AI workflow and automation strategy
+- Business process mapping and operational systems
+- Full-stack projects built with TypeScript + Next.js
+- Product and service concepts from idea to working prototype
+- Delivery planning, documentation, and stakeholder alignment
+
+---
+
+## Currently building
+
+| Project | Stack | What it does |
+|---|---|---|
+| **Jamaica Digest Platform** | TypeScript / Next.js | Editorial site + client project management dashboard |
+| **Jamaica Digest Magazine** | TypeScript / Next.js | Static magazine site — Our Jamaica, Our Stories, Our Future |
+| **Personal Website** | TypeScript / Next.js / Tailwind | Scrapbook-style portfolio site |
+| **TAC / Delivery Pulse** | Repo-TAC | Team-alignment, sprint-review, blocker and decision-tracking system |
+
+---
+
+## How I think
+
+> The best solution is not the most technical one. It is the one that makes the business easier to run, easier to understand, and easier for people to use.
+
+---
+
+## Tools & tech
+
+**Building with:** TypeScript · Next.js · Tailwind CSS · Vercel  
+**Strategy & ops:** AI Workflow Design · Automation · Notion · Figma · Google Workspace  
+**Learning:** APIs · GitHub Actions · React · AI implementation
+
+---
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/tiffany-lin) · [Email](mailto:tiffanyetta@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ettalin&show_icons=true&hide_border=true&theme=default" />
+</p>
